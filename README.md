@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @versatileben
-- 👀 I’m interested in ...creation of softwares,testin,and app development
-- 🌱 I’m currently learning ...python language
-- 💞️ I’m looking to collaborate on ...software development
-- 📫 How to reach me ...whatsapp(08027142781)
+
+Full Stack Python and a Web Developer
+
 
 <!---
 versatileben/versatileben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
